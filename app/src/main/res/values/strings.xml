@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yang</string>
+    <string name="main">主页</string>
+    <string name="bill">选择查询方式</string>
+    <string name="record">详细记录</string>
+    <string name="daily_amount">每日总量</string>
+    <string name="add_info">添加信息</string>
+
+</resources>
